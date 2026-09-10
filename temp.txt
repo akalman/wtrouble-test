@@ -2,4 +2,3 @@ some stuff
 a
 b
 c
-d
